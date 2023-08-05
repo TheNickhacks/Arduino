@@ -1,0 +1,4 @@
+Led
+Buzzer
+resistencia 100
+sensor SW_420
